@@ -1,0 +1,23 @@
+NEXORA 9:16 video (2:01): voiceover script
+
+0:00-0:04  Posting every day? Finding hashtags and writing captions takes forever.
+0:04-0:07  Meet NEXORA, an AI social media assistant.
+0:07-0:10  Upload one photo, and it builds your post.
+0:10-0:16  Hashtags, captions, tag ideas and a post score, all from one photo.
+0:16-0:19  Seven platforms, each with its own rules.
+0:19-0:24  Start free. Pro raises the limits, but payments aren't connected yet.
+0:24-0:27  Demo mode works with no setup.
+0:27-0:30  Step one: upload a photo.
+0:30-0:42  The analyzer describes what's visible, and flags what it can't confirm, like an exact location. Then it suggests the audience, keywords and best platforms.
+0:42-0:48  Step two: generate hashtags in seven groups, with a reason for each.
+0:48-0:53  Filter by relevance, trend or competition. They're labeled AI-estimated, never fake stats.
+0:53-0:58  Pick the ones you like and copy them in one tap.
+0:58-1:07  Step three: five captions per request, in ten styles and four languages: English, Hindi, Gujarati and Hinglish. Save your favorites.
+1:07-1:15  Step four: edit the post in the builder and preview it for each platform, then copy or download.
+1:15-1:21  A hundred-point score with fixes: a guide, not a guarantee.
+1:21-1:30  The tag finder suggests brands and communities, but they're unverified. You add the real handles yourself.
+1:30-1:35  Saved items can be searched, edited or deleted anytime.
+1:35-1:41  And the dashboard shows your own real activity.
+1:41-1:46  It's honest by design: no fake stats, no auto-tagging, no auto-posting.
+1:46-1:55  My verdict: a solid MVP, seven out of ten. Trends are estimates, tag suggestions need checking, and live Gemini quality still needs testing.
+1:55-2:01  NEXORA. Create smarter. Connect better. Free to start.

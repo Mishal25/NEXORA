@@ -23,6 +23,16 @@ Captured with sample AI responses, not live Gemini output.
 | ![Tag Finder](docs/screenshots/tag-finder.jpg) | ![Trending](docs/screenshots/trending.jpg) |
 | ![Saved](docs/screenshots/saved.jpg) | ![Mobile](docs/screenshots/mobile-landing.jpg) |
 
+## Videos
+Made with sample AI responses (not live Gemini output) and no voiceover. Voiceover scripts are in `docs/scripts`.
+
+| File | Format | Length |
+|---|---|---|
+| [`videos/nexora-intro.mp4`](videos/nexora-intro.mp4) | 16:9 intro | 10 s |
+| [`videos/nexora-promo-16s.mp4`](videos/nexora-promo-16s.mp4) | 16:9 promo | 16 s |
+| [`videos/nexora-review.mp4`](videos/nexora-review.mp4) | 16:9 hands-on review | 63 s |
+| [`videos/nexora-vertical-2min.mp4`](videos/nexora-vertical-2min.mp4) | 9:16 explainer | 2:01 |
+
 ## Setup
 
 AI social media assistant: photo analysis, hashtags, tag ideas, captions (English/Hindi/Gujarati/Hinglish), post optimizer, trending explorer, post builder, saved collection, dashboard, Free/Pro limits.

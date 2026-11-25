@@ -1,0 +1,12 @@
+NEXORA review: voiceover script, timed to nexora-review.mp4 (mm:ss)
+Read at a calm pace, about 150 words per minute.
+
+[00:00 - 00:02]  NEXORA. A hands-on review.
+[00:03 - 00:07]  Demo mode lets me sign in without any Firebase keys.
+[00:07 - 00:16]  I upload a coffee photo. The analyzer describes what's visible, and flags what it can't confirm, like the exact location.
+[00:16 - 00:30]  Hashtags come in seven groups, each with relevance, competition and a reason. They're labeled AI-estimated, so there are no made-up post counts. I filter for low competition, pick three, and copy them.
+[00:31 - 00:36]  Captions: five different options, with a character check for each platform.
+[00:37 - 00:47]  The Post Builder previews each platform, scores the draft out of a hundred, then lets me copy or download. It never posts for you.
+[00:48 - 00:53]  Tag suggestions are unverified. You add the real handles yourself.
+[00:53 - 00:57]  The dashboard shows your own real activity.
+[00:58 - 01:03]  Verdict: a solid MVP, seven out of ten. Live Gemini quality still needs testing.
